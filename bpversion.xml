@@ -38,9 +38,10 @@
     </item>
     <!-- A joke release testing maximumSystemVersion -->
     <item>
-        <title>Version 5.0</title>
+        <title>Android Version</title>
+        <sparkle:os>Android</sparkle:os>
         <sparkle:version>5.0</sparkle:version>
-        <sparkle:maximumSystemVersion>2.0.0</sparkle:maximumSystemVersion>
+        <sparkle:maximumSystemVersion>3.0.0</sparkle:maximumSystemVersion>
     </item>
   </channel>
 </rss>
