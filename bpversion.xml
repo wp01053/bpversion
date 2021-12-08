@@ -3,10 +3,12 @@
   <channel>
     <item>
         <title>Android Version</title>
+        <enclosure url="" sparkle:version="4.0" sparkle:os="Android" />
         <description>desc Версия</description>
-        <sparkle:osString>Android</sparkle:osString>
-        <sparkle:version>5.0</sparkle:version>
-        <sparkle:maximumSystemVersion>3.0.0</sparkle:maximumSystemVersion>
+        <sparkle:version>5.0</sparkle:version>        
+        <sparkle:maximumSystemVersion>4.0.0</sparkle:maximumSystemVersion>
+        <sparkle:minimumSystemVersion>3.0.0</sparkle:minimumSystemVersion>
+
     </item>
   </channel>
 </rss>
