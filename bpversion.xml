@@ -3,18 +3,18 @@
   <channel>
     <item>
         <title>Android Version</title>
-        <enclosure url="" sparkle:version="4.0" sparkle:os="Android" />
+        <enclosure url="" sparkle:version="1.0" sparkle:os="Android" />
         <description>desc Версия</description>       
-        <sparkle:maximumSystemVersion>4.0.0</sparkle:maximumSystemVersion>
-        <sparkle:minimumSystemVersion>3.0.0</sparkle:minimumSystemVersion>
+        <sparkle:maximumSystemVersion>1.0.1</sparkle:maximumSystemVersion>
+        <sparkle:minimumSystemVersion>1.0.1</sparkle:minimumSystemVersion>
 
     </item>
         <item>
         <title>Android Versio1n</title>
-        <enclosure url="" sparkle:version="41.0" sparkle:os="Android1" />
+        <enclosure url="" sparkle:version="1.0" sparkle:os="Android1" />
         <description>desc Ве11рсия</description>       
-        <sparkle:maximumSystemVersion>42.0.0</sparkle:maximumSystemVersion>
-        <sparkle:minimumSystemVersion>33.0.0</sparkle:minimumSystemVersion>
+        <sparkle:maximumSystemVersion>1.0.0</sparkle:maximumSystemVersion>
+        <sparkle:minimumSystemVersion>1.0.0</sparkle:minimumSystemVersion>
 
     </item>
   </channel>
