@@ -3,7 +3,7 @@
   <channel>
     <item>
         <title>Android Version</title>
-        <sparkle:os>Android</sparkle:os>
+        <sparkle:osString>Android</sparkle:osString>
         <sparkle:version>5.0</sparkle:version>
         <sparkle:maximumSystemVersion>3.0.0</sparkle:maximumSystemVersion>
     </item>
