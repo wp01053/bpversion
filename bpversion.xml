@@ -4,17 +4,9 @@
     <item>
         <title>Android Version</title>
         <enclosure url="" sparkle:version="1.0" sparkle:os="Android" />
-        <description>desc Версия</description>       
+        <description>Androidversion_bp</description>       
         <sparkle:maximumSystemVersion>1.0.1</sparkle:maximumSystemVersion>
         <sparkle:minimumSystemVersion>1.0.1</sparkle:minimumSystemVersion>
-
-    </item>
-    <item>
-        <title>Android Versio1n</title>
-        <enclosure url="" sparkle:version="1.0" sparkle:os="Android1" />
-        <description>desc Ве11рсия</description>       
-        <sparkle:maximumSystemVersion>1.0.0</sparkle:maximumSystemVersion>
-        <sparkle:minimumSystemVersion>1.0.0</sparkle:minimumSystemVersion>
 
     </item>
   </channel>
