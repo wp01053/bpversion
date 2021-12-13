@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
     <item>
-        <title>Android Version</title>
-        <description>Androidversion_bp</description>       
-        <sparkle:maximumSystemVersion>1.0.1</sparkle:maximumSystemVersion>
-        <sparkle:minimumSystemVersion>1.0.1</sparkle:minimumSystemVersion>
+        <title>Version</title>
+        <description>version_bp</description>       
+        <sparkle:maximumSystemVersion>1.0.2</sparkle:maximumSystemVersion>
+        <sparkle:minimumSystemVersion>1.0.3</sparkle:minimumSystemVersion>
 
     </item>
   </channel>
