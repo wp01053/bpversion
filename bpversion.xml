@@ -3,7 +3,6 @@
   <channel>
     <item>
         <title>Android Version</title>
-        <enclosure url="" sparkle:version="1.0" sparkle:os="Android" />
         <description>Androidversion_bp</description>       
         <sparkle:maximumSystemVersion>1.0.1</sparkle:maximumSystemVersion>
         <sparkle:minimumSystemVersion>1.0.1</sparkle:minimumSystemVersion>
